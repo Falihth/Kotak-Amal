@@ -1,0 +1,159 @@
+body{
+    background-image: url('background/bg.png');
+    background-size: cover;
+}
+
+.navbar {
+width: 1520px;
+height: 104px;
+top: -1px;
+gap: 0px;
+opacity: 0px;
+background: linear-gradient(180deg, #FFFFFF 0%, #999999 116.35%);
+position: absolute;
+}
+
+.navbar-brand{
+width: 198px;
+height: 45px;
+top: 31px;
+left: 90px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 30px;
+font-weight: 700;
+line-height: 45px;
+text-align: left;
+color: #000000;
+text-shadow: 2px 2px 2px #00000040;
+position:absolute;
+}
+
+.logo1{
+    width: 320px;
+height: 260px;
+top: -72px;
+left: 560px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.logo2{
+    width: 199px;
+height: 41px;
+top: 31px;
+left: 1150px;
+gap: 0px;
+opacity: 0px;
+position:absolute;
+}
+
+.logo3{
+width: 553px;
+height: 492px;
+left: 444px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.total{
+    width: 300px;
+    height: 60px;
+    top: 324px;
+    left: 590px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 60px;
+    text-align: left;
+    color: #FFF500;
+    position: absolute;    
+}
+
+.logo4{
+    width: 574px;
+height: 464px;
+top: 422px;
+left: -20px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.logo5{
+    width: 641px;
+height: 535px;
+top: 422px;
+left: 829px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.border1{
+    width: 584px;
+height: 121px;
+top: 411px;
+left: 428px;
+gap: 0px;
+border-radius: 20px 0px 0px 0px;
+opacity: 0px;
+background: linear-gradient(92.53deg, #FFFFFF 0%, #999999 97.29%);
+box-shadow: 0px 3px 1px 5px #FFFFFF40;
+position:absolute;
+}
+
+.angka{
+    width: 188px;
+height: 81px;
+top: 20px;
+left: 290px;
+gap: 0px;
+opacity: 0px;
+font-family: Prata;
+font-size: 60px;
+font-weight: 400;
+line-height: 81.3px;
+text-align: left;
+color: #000000;
+text-shadow: 3px 3px 0px 0px #00000040;
+position: absolute;
+}
+
+.border-logout{
+    width: 220px;
+height: 67px;
+top: 408px;
+left: -100px;
+gap: 0px;
+border-radius: 35px 35px 35px 35px;
+opacity: 0px;
+background: linear-gradient(95.6deg, #FF0000 14.25%, #990000 95.03%);
+cursor: pointer;
+position: absolute;
+}
+
+.logout{
+    width: 117px;
+    height: 53px;
+    opacity: 0px;
+    font-family: Poppins;
+    left: 59px;
+    top: 8px;
+font-size: 35px;
+font-weight: 700;
+line-height: 52.5px;
+text-align: left;
+color: #FFFFFF;
+position: absolute;
+    
+}
+
+.container{
+    position: relative;
+}
