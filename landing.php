@@ -27,11 +27,10 @@
         Kami menghadirkan kotak amal pintar yang menggunakan teknologi ESP32-CAM, dirancang khusus untuk memudahkan Anda dalam berbagi kebaikan. Kotak amal ini dilengkapi dengan sistem pengawasan canggih yang dapat mendeteksi dan merekam setiap momen saat donasi dilakukan.
         </h2>
     <img src="background/amal.png" alt="icon" class="logo3">
-    <button class="block1" type="submit"></button>
-    <a href="login_index.php" class="log">login</a>
-    <button class="block2" type="submit">
-        <a href="signup_index.php" class="sign">sign up</a>
-    </button>
+    <a href="login_index.php" class="block1">login</a>
+    <a href="signup_index.php" class="block2">
+        sign up
+</a>
   <a href="aboutus.php" class="ab">ABOUT US</a>
 </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
